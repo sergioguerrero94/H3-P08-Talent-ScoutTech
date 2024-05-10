@@ -328,6 +328,8 @@ Ahora ya sabemos que podemos realizar un ataque XSS. Hemos preparado el siguient
 
 **a) Editad un jugador para conseguir que, en el listado de jugadores (list_players.php) aparezca, debajo del nombre de su equipo y antes de “(show/add comments)” un botón llamado “Profile” que corresponda a un formulario que envíe a cualquiera que haga clic sobre este botón a esta dirección que hemos preparado.**
 
+Se ha editado globalmente a través del código de la página list_players.php para asegurarnos de que no difieran entre ellos y levantar menos sospechas.
+
 ![profile](./img/profile.png)
 
 **b) Una vez lo tenéis terminado, pensáis que la eficacia de este ataque aumentaría si no necesitara que el usuario pulse un botón. Con este objetivo, cread un comentario que sirva vuestros propósitos sin levantar ninguna sospecha entre los usuarios que consulten los comentarios sobre un jugador (show_comments.php).**
