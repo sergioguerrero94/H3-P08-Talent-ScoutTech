@@ -32,7 +32,7 @@ Los objetivos de este informe técnico son:
 
 ## Alcance
 
-El alcance de este informe técnico es la aplicación Web al completo de la empresa Talent ScoutTech.
+El alcance de este informe técnico son los archivos que hay en la raíz exceptuando los archivos de la carpeta private exceptuandose esto en los apartados necesarios.
 
 ## Parte 1 - SQLi
 
